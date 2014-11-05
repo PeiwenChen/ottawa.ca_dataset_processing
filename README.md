@@ -29,6 +29,8 @@ The graph is @:
 https://plot.ly/~Peiwen/7
 
 
-plotly used for visualization.
+NOTE:
+1. xlrd used for python processing xls file
+2. plotly used for visualization.
 
 
