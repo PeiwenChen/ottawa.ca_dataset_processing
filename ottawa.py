@@ -1,4 +1,10 @@
 
+"""
+process all datasets and extract interesting info for visualization
+Author: Peiwen Chen
+Date: Nov 04, 2014
+"""
+
 from xlrd import open_workbook
 from xlrd import XL_CELL_EMPTY, XL_CELL_NUMBER, XL_CELL_DATE, XL_CELL_BOOLEAN, XL_CELL_ERROR, XL_CELL_BLANK
 
