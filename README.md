@@ -15,6 +15,8 @@ The graph is @:
 https://plot.ly/~Peiwen/3
 
 3. ottawa.py creates dict for each month dataset and plot.
+dict = {filename: {url: values}}
+dictall.out is the dict created for all datasets.
 
 a. top 10 Pageviews for each month
 
